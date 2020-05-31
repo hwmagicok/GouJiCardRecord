@@ -1,0 +1,7 @@
+<resources>
+    <item name="totalLayout_id" type="id"></item>
+    <item name="cardLayout_id" type="id"></item>
+    <item name="cardNameLayout_id" type="id"></item>
+    <item name="cardNumLayout_id" type="id"></item>
+    <item name="menu_id" type="id"></item>
+</resources>
